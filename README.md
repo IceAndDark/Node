@@ -1,2 +1,2 @@
 # Node
-sample
+Network validation point
